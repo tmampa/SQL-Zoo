@@ -20,11 +20,12 @@ Testing my domain knowledge of SQL queries by solving the [SQLZoo](https://sqlzo
 
 ## Authors
 
-👤 **Zeenat Lawal**
+👤 **Tshephang Mampa**
 
-- GitHub: [@githubhandle](https://github.com/tmampa)
-- Twitter: [@twitterhandle](https://twitter.com/tshephangm_)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tshephangmampa/)
+- GitHub: [@tmampa](https://github.com/tmampa)
+- Twitter: [@tshephangm_](https://twitter.com/tshephangm_)
+- LinkedIn: [Tshephang Mampa](https://www.linkedin.com/in/tshephangmampa)
+
 
 ## 🤝 Contributing
 
